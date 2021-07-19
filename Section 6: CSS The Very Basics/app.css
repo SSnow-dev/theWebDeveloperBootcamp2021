@@ -1,0 +1,22 @@
+h1 {
+    color: #0f5679;
+}
+
+h2 {
+    color:#ee88ee;
+    background-color: rgb(75, 142, 151);
+}
+
+button {
+    color: white;
+    background-color: indigo;
+}
+
+p {
+    color: orange;
+}
+
+body {
+    background-color: #22223f;
+}
+
