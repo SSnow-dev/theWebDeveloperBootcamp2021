@@ -1,0 +1,53 @@
+h1 {
+    color: #e5e5e5;
+    text-decoration-line: underline;
+    text-decoration-color: #fca311;
+}
+
+body {
+    color: #fff;
+    background-color: #14213d;;
+}
+
+button {
+    background-color: #e5e5e5;
+    padding: 3px;
+    border-spacing: 4px;
+    border-radius: 8px;
+}
+
+nav {
+    /* background-color: #000; */
+}
+
+button:hover {
+    background-color: #fca311;
+    color: #000;
+}
+
+h1::first-letter, h2::first-letter {
+    font-size: 40px;
+    color: #fca311;
+}
+
+#signup {
+    background-color: #76c893;
+}
+
+#signup:hover {
+    background-color: #fca311;
+    color: #000;
+}
+
+
+.dolor {
+    color: #fca311;
+}
+
+.tag {
+    background-color:  #fca311;
+    color: #000;
+    padding: 3px;
+    border-spacing: 4px;
+    border-radius: 8px;
+}
